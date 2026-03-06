@@ -1,0 +1,196 @@
+.navigation-wrapper {
+  display: contents;
+}
+ 
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-logo-icon-elm1 {
+  background-color: transparent;
+}
+ 
+.navigation-image {
+  width: 64px;
+  height: 58px;
+  object-fit: cover;
+  backdrop-filter: blur(0px);
+}
+ 
+.navigation-thq-section-title-elm1 {
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  text-align: left;
+  font-family: "Google Sans";
+  background-clip: text;
+  webkit-background-clip: text;
+}
+ 
+.navigation-thq-navigation-link-elm2 {
+  text-decoration: none;
+}
+ 
+.navigation-thq-dropdown {
+  cursor: pointer;
+  display: inline-block;
+  padding: 4px 8px;
+  position: relative;
+  border-color: rgba(0, 0, 0, 0.45);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+ 
+.navigation-thq-dropdown-toggle {
+  gap: 4px;
+  display: inline-flex;
+  align-items: center;
+}
+ 
+.navigation-thq-dropdown-arrow {
+  transition: 0.3s;
+}
+ 
+.navigation-icon18 {
+  width: 18px;
+  height: 18px;
+}
+ 
+.navigation-thq-dropdown-list {
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  flex-direction: column;
+  list-style-type: none;
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}
+ 
+.about-city-metro-link-fragment {
+  display: contents;
+}
+ 
+.about-city-metro-link-text1 {
+  display: inline-block;
+}
+
+.footer-wrapper {
+  display: contents;
+}
+ 
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-thq-footer-link-elm10 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm11 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm13 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm16 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm17 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm18 {
+  text-decoration: none;
+}
+ 
+.footer-thq-footer-link-elm20 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.footer-thq-footer-link-elm21 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.footer-thq-footer-partner-icons-elm {
+  text-decoration: none;
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
+
+.about-city-metro-link-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.about-city-metro-link-fragment {
+  display: contents;
+}
+ 
+.about-city-metro-link-text1 {
+  display: inline-block;
+}
+ 
+.about-city-metro-link-container2 {
+  display: none;
+}
+ 
+.about-city-metro-link-container3 {
+  display: contents;
+}
+ 
+.about-city-metro-link-container4 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.about-city-metro-link-icon38 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.about-city-metro-link-text7 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
